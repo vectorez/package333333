@@ -30,7 +30,7 @@
     "@firebase/app": "0.3.1",
     "@firebase/auth": "0.5.2",
     "@firebase/database": "0.3.1",
-    "@firebase/firestore": "0.5.2",
+
     "@firebase/functions": "0.2.2",
     "@firebase/messaging": "0.3.2",
     "@firebase/polyfill": "0.3.1",
